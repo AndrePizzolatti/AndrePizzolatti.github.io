@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    background: #e5e5e5;
+    color: #25282b;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    -webkit-font-smoothing: antaliased;
+}
+
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2254ff;
+    font-weight: bold;
+    -webkit-font-smoothing: antaliased;
+}
+
+a {
+    color: magenta;
+    text-decoration: none;
+}
+
+div.col-md-12 {
+    margin-top: 10vh;
+}
+
+img {
+    margin-top: 8vh;
+}
+
+.img-resize {
+    width: 720px;
+    height: 1280;
+}
